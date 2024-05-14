@@ -1,2 +1,3 @@
 # NMCT_Demo
-My First Repo
+My First Git Repository
+Author- Khemraj Devatwal
